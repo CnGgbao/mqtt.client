@@ -1,0 +1,3 @@
+[submodule "gw_x86"]
+	path = gw_x86
+	url = git@github.com:CnGgbao/gw_x86.git
